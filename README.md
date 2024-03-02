@@ -1,1 +1,1 @@
-just a curiosity trip, nothing special here.
+just a curiosity trip to build a clone of tinyUrl, nothing special here.
